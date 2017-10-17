@@ -1,3 +1,3 @@
 # cmie
-Center for mining invocation and entrepreneurship
+Center for mining inovation and entrepreneurship
 https://deadshourya.github.io/cmie/
